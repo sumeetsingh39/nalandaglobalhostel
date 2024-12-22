@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/files/
+Sitemap: https://nalandaglobalhostel.com/sitemap.xml
